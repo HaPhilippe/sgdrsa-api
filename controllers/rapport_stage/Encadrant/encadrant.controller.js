@@ -1,7 +1,6 @@
 const express = require("express")
 const { Op } = require("sequelize")
 
-
 const Validation = require("../../../class/Validation")
 const RESPONSE_CODES = require("../../../constants/RESPONSE_CODES")
 const RESPONSE_STATUS = require("../../../constants/RESPONSE_STATUS")
