@@ -3,6 +3,7 @@ const { Sequelize, DataTypes } = require('sequelize');
 const sequelize = require('../utils/sequerize');
 const Faculte = require('./Faculte');
 
+
 /**
 * fonction model pour la creation de la table  Departement
 * @author Philippe <hphilip@inoviatech.com>
